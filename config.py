@@ -1,4 +1,4 @@
-﻿token = '1128065811:AAHVuyDa03MI9FsLmlFfxbJhQ8MBUDThqCU'
+﻿token = '11:AU'
 
 
 # host = 'localhost'
